@@ -62,4 +62,7 @@ dependencies {
     ksp("androidx.room:room-compiler:2.7.2")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.1")
+
+    implementation("com.stripe:stripeterminal:4.5.0")
+    implementation("com.stripe:stripeterminal-core:4.5.0")
 }
